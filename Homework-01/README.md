@@ -16,7 +16,7 @@ along with the raw data.
 ### Noisy Accelerometer Data
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40534801/152654801-f57005ab-c682-4b24-84f7-d44349357ae0.png" width="50%">
-<\p>
+</p>
   
 ### Moving-Averaged Data [^1]
 2-point Moving Average    |  4-point Moving Average| 8-point Moving Average
