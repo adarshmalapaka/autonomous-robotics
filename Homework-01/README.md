@@ -10,9 +10,15 @@ This is an implementation of loading and plotting the raw accelerometer data usi
 observed to be noisy. An n-point moving average filter for this raw data is implemented and plotted 
 along with the raw data.   
 
+
 ## Plots
 
-### Matplotlib Plots [^1]
+### Noisy Accelerometer Data
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40534801/152654801-f57005ab-c682-4b24-84f7-d44349357ae0.png" width="50%">
+<\p>
+  
+### Moving-Averaged Data [^1]
 2-point Moving Average    |  4-point Moving Average| 8-point Moving Average
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40534801/152653989-e5469af7-f4b4-46a5-9279-03f7b8047b78.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/152653994-e6678372-4e7d-4a4c-9a8e-a7642b665eda.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/152654004-568639e4-d70c-470c-a2e8-338da17a64ee.png" width="100%">
@@ -21,18 +27,18 @@ along with the raw data.
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40534801/152654031-d21b85bf-58bd-4749-a3bc-0042be8cb9a3.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/152654038-4c0cc6ed-c8d2-4c4f-91bd-3fece0942b55.png" width="100%"> | <img src="https://user-images.githubusercontent.com/40534801/152654040-bab9549f-7efb-4c8c-8ca2-a3b94970c569.png" width="100%">
 
-
 ### Animation [^2]
 Raw Data    |  128-pt Moving Average
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40534801/152650470-e4976922-4414-44d7-bf7b-c752b0ece5a1.gif" width="80%"> | <img src="https://user-images.githubusercontent.com/40534801/152650775-5c7f566b-0c81-44b0-ba33-068dc40c3842.gif" width="80%">
 
-
+  
 ## Packages Used
 - Python 3.7.11
 - Matplotlib 3.5.0
 - NumPy 1.21.2
 
+  
 ## Code Execution
 
 * Clone the repository
