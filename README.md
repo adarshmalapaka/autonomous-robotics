@@ -6,7 +6,7 @@ The Screen-ception ft. RPi Cam v.20 [HW-02]: [YouTube](https://www.youtube.com/w
 
 Green-Stoplight Tracking [HW-03]: [YouTube](https://www.youtube.com/watch?v=9uxGBBSAziA)
 
-Arrow Tracking and Orienttaion Identification [HW-04]: [YouTube](https://www.youtube.com/watch?v=jq4XYR5vmws)
+Arrow Tracking and Orientation Identification [HW-04]: [YouTube](https://www.youtube.com/watch?v=jq4XYR5vmws)
 
 Teleoperating the Assembled Robot [HW-05]: [YouTube](https://www.youtube.com/watch?v=CyP2nCQtb8c)
 
