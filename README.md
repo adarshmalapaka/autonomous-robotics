@@ -11,3 +11,9 @@ Arrow Tracking and Orientation Identification [HW-04]: [YouTube](https://www.you
 Teleoperating the Assembled Robot [HW-05]: [YouTube](https://www.youtube.com/watch?v=CyP2nCQtb8c)
 
 Gripper Functionality [HW-06]: [YouTube](https://youtu.be/SUkskY0j-7s), [YouTube](https://youtu.be/hrYINba4qlU)
+
+Encoder Localization [HW-07]: [YouTube](https://youtu.be/aDxO0KSCq-8), [YouTube](https://youtu.be/WvyYp1UWGx0)
+
+IMU + Encoder Localization [HW-08]: [YouTube](https://youtu.be/wA47crPrXyk)
+
+Autonomous Block Tracking + Retrieval [HW-09]: [YouTube](https://youtu.be/9uv22vsaFX8), [YouTube](https://youtu.be/2DZOtb8F0Lk)
